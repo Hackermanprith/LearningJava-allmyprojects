@@ -1,63 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1901f68e-b4e9-4f7f-8293-5c05dabb7594" name="Changes" comment="hu">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARNINGASTUPIDlanguagecalled java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/pmdev/in/Loanone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/pmdev/in/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/pmdev/in/Reversingastring.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/pmdev/in/Time_converter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/pmdev/in/advancedpatterncoding.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/pmdev/in/arrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/pmdev/in/basicpatterncodingandhomeworkoflecturefive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/pmdev/in/functions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/pmdev/in/ifelsestatement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/pmdev/in/input.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/pmdev/in/justaminisoftwarre.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/pmdev/in/operation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/pmdev/in/swapping.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/pmdev/in/variables.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/lectures/homework/answers/lectur4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/lectures/homework/answers/lecture3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/lectures/homework/answers/lecture5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/lectures/homework/answers/lecture7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/lectures/homework/answers/lecturre2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/project/cinemahall/java/first_project.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/project/cinemahall/java/second_project.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/project/cinemahall/java/thirdproject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pmdev/in/Loanone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pmdev/in/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pmdev/in/Reversingastring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pmdev/in/Time_converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pmdev/in/advancedpatterncoding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pmdev/in/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pmdev/in/basicpatterncodingandhomeworkoflecturefive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pmdev/in/functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pmdev/in/ifelsestatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pmdev/in/input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pmdev/in/justaminisoftwarre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pmdev/in/operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pmdev/in/swapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pmdev/in/variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/homework/answers/exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/homework/answers/lectur4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/homework/answers/lecture3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/homework/answers/lecture5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/homework/answers/lecture7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/homework/answers/lecturre2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project/cinemahall/java/first_project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project/cinemahall/java/second_project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project/cinemahall/java/thirdproject.java" afterDir="false" />
+    <list default="true" id="1901f68e-b4e9-4f7f-8293-5c05dabb7594" name="Changes" comment="Bruhhhhhhhh">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/homework/answers/exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/homework/answers/exercise1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +31,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/lectures/homework/answers/exercise1.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -199,6 +148,14 @@
       <option name="presentableId" value="Default" />
       <updated>1645446839109</updated>
     </task>
+    <task id="LOCAL-00001" summary="Bruhhhhhhhh">
+      <created>1646894909805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646894909806</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +171,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hu" />
-    <option name="LAST_COMMIT_MESSAGE" value="hu" />
+    <MESSAGE value="Bruhhhhhhhh" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bruhhhhhhhh" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
