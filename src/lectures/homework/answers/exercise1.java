@@ -74,9 +74,18 @@ public static void counting() {
         System.out.println("Negatives : "+ negnum);
         System.out.println("Zeros : "+ zero);
     }
+    public static int power(int n,int y){
+        if(n == 1| y == 1 ){
+            return 1;
+        }
+        else{
+            return (n * power(n,y-1));
+        }
+    }
     
     public static void main(String[]args){
-        counting();
+        int n = power(3,3)*3;
+        System.out.println(n);
     }
 
 }
