@@ -79,14 +79,38 @@ public static void counting() {
             return 1;
         }
         else{
-            return (n * power(n,y-1));
+            return (n * power(n,y-1))*n;
         }
+    }
+    public static int greatestdivisor(int n,int y){
+        int divisor = 1;
+        for (int i = n-1;i>=2;i--){
+            if(n%i==0 && y%i==0){
+                divisor = i;
+                break;
+            }
+        }
+        return divisor;
+    }
+    public static void fibonacci(int n){
+        int temp;
+        int firnum = 0;
+        int secnum = 1;
+        for(int i = 1;i<=n;i++){
+            temp = secnum;
+            secnum = firnum + secnum;
+            firnum = temp;
+            System.out.print(firnum+ " ");
+        }
+
     }
 
     
     public static void main(String[]args){
-        int n = power(3,3)*3;//added the last multiply cz the func starts from the secon latst num example for pow 3 it will start from pow 2
-        System.out.println(n);
+        //int n = power(2,2);//added the last multiply cz the func starts from the second latst num example for pow 3 it will start from pow 2
+        //System.out.println(n);
+        fibonacci(10);
+        System.out.println();
     }
 
 }
