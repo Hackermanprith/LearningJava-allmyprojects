@@ -82,6 +82,7 @@ public static void counting() {
             return (n * power(n,y-1));
         }
     }
+
     
     public static void main(String[]args){
         int n = power(3,3)*3;//added the last multiply cz the func starts from the secon latst num example for pow 3 it will start from pow 2
