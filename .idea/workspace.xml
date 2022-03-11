@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1901f68e-b4e9-4f7f-8293-5c05dabb7594" name="Changes" comment="Bruhhhhhhhh">
+    <list default="true" id="1901f68e-b4e9-4f7f-8293-5c05dabb7594" name="Changes" comment="all exercises">
+      <change afterPath="$PROJECT_DIR$/src/librarymanagement/project/java/library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/librarymanagement/project/java/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/librarymanagement/project/java/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lectures/homework/answers/exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/homework/answers/exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pmdev/in/arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pmdev/in/arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +36,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/lectures/homework/answers/exercise1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/lectures/homework/answers/lecture7.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -51,12 +59,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/project/cinemahall/java" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Prithwish Mukherjee\Desktop\Actuallylearningjava\src\project\cinemahall\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lecture7">
+  <component name="RunManager" selected="Application.arrays">
     <configuration name="advancedpatterncoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pmdev.in.advancedpatterncoding" />
       <module name="LEARNINGASTUPIDlanguagecalled java" />
@@ -155,7 +166,42 @@
       <option name="project" value="LOCAL" />
       <updated>1646894909806</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercise1 7th sol">
+      <created>1646897452728</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646897452728</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercise1 8th sol">
+      <created>1646899773009</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646899773009</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Exercise1 8th sol">
+      <created>1646900006224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646900006224</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Exercise1 8th sol">
+      <created>1646900155387</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646900155387</updated>
+    </task>
+    <task id="LOCAL-00006" summary="all exercises">
+      <created>1646905231929</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646905231929</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,11 +214,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="hu" />
     <MESSAGE value="Bruhhhhhhhh" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bruhhhhhhhh" />
+    <MESSAGE value="Exercise1 7th sol" />
+    <MESSAGE value="Exercise1 8th sol" />
+    <MESSAGE value="all exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="all exercises" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
