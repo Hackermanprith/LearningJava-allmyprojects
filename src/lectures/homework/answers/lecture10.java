@@ -34,5 +34,6 @@ public class lecture10 {
     public static void main(String []args){
         arrayname();
         arraysearcher();
+
     }
 }
